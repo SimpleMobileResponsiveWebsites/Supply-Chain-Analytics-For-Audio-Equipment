@@ -5,7 +5,7 @@ import plotly.express as px
 
 # Function to upload CSV file on the first page
 def upload_csv_page():
-    st.title("Supply Chain Analytics for Audio Equipment - Upload Data")
+    st.title("Supply Chain Analytics For Audio Equipment - Upload Data")
     st.write("Upload a CSV file with string column headers, and strings, integers, and floats as values.")
 
     uploaded_file = st.file_uploader("Upload a CSV file", type=["csv"])
@@ -22,7 +22,7 @@ def upload_csv_page():
 
 # Function to display data on the second page
 def display_data_page(df):
-    st.title("Supply Chain Analytics for Audio Equipment - Display Data")
+    st.title("Supply Chain Analytics For Audio Equipment - Display Data")
 
     if df is not None:
         st.write("## Displaying Data")
@@ -31,7 +31,7 @@ def display_data_page(df):
 
 # Function to create a graph on the third page
 def create_graph_page(df):
-    st.title("Supply Chain Analytics for Audio Equipment - Create Graph")
+    st.title("Supply Chain Analytics For Audio Equipment - Create Graph")
     st.write("Select columns for the X-axis and Y-axis to create a graph.")
 
     x_column = st.selectbox("Select X-axis column", df.columns)
