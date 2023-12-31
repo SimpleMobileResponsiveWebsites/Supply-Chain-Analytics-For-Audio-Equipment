@@ -1,6 +1,7 @@
 # Supply-Chain-Analytics-For-Audio-Equipment
 Supply Chain Analytics For Audio Equipment
-![Supply Chain Analytics For Audio Equipment - Create Graph](https://github.com/SimpleMobileResponsiveWebsites/Supply-Chain-Analytics-For-Audio-Equipment/assets/25598949/1396fd74-21af-47b0-bf34-25cf2d022bde)
+![Supply Chain Analytics For Audio Equipment - Create Graph](https://github.com/SimpleMobileResponsiveWebsites/Supply-Chain-Analytics-For-Audio-Equipment/assets/25598949/bd96e6c9-5d99-42c3-b82f-a1ee2c056aaf)
+
 
 #How To Use This Streamlit App
 1. Streamlit Run app1.py
@@ -11,4 +12,5 @@ This section meticulously delineates the process for rendering the Supply Chain 
 5. Next, select 'Create Graph'.  A graph will be created and display in the main application window.
 6. To change the columns of data that display on the x and y axis, select different choices from the x and y axis dropdowns in the 'Create Graph' main application display.
    
-![Supply Chain Analytics For Audio Equipment - Create Graph 2](https://github.com/SimpleMobileResponsiveWebsites/Supply-Chain-Analytics-For-Audio-Equipment/assets/25598949/b8ccea22-ae9d-4577-b0b5-11b11a7be98f)
+![Supply Chain Analytics For Audio Equipment - Create Graph 2](https://github.com/SimpleMobileResponsiveWebsites/Supply-Chain-Analytics-For-Audio-Equipment/assets/25598949/5d454c6d-d8f7-4b48-9046-15fdca5ee04f)
+
